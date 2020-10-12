@@ -1,12 +1,12 @@
-# !!!Replace with your unique project name!!!
+# Colors by Symbols
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+Google documents have an option to switch the color of your text by a dropdown menu with color previews. If a person is colorblind, this dropdown menu of colors would be almost impossible to read. I have created a code which will take text given by the user and change the color to what the user prefers. It will do this by having a table attaching colors with symbols. The user will be able to type a sentence and a symbol and have it print the sentece in that color. The user will then be able to copy the text and paste it into their desired document. 
 
 ## Developer
 
-!!!Replace with your name!!!
+Claire Sanders
 
 ## Example
 
